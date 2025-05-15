@@ -49,3 +49,4 @@ data = "a-b-c-d"
 print(data.split('-',2))
 s = "  spaced   text "
 print("-".join(s.strip()))
+print(version6)
